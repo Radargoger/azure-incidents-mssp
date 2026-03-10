@@ -56,5 +56,3 @@ Logic Apps are configured to start **3 minutes after deployment** to allow Azure
 
 No manual action required - they will start automatically.
 
-## Support
-- **Support:** integration@socradar.io
