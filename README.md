@@ -56,13 +56,5 @@ Logic Apps are configured to start **3 minutes after deployment** to allow Azure
 
 No manual action required - they will start automatically.
 
-## About SOCRadar
-
-SOCRadar is an Extended Threat Intelligence (XTI) platform.
-
-Learn more at [socradar.io](https://socradar.io)
-
 ## Support
-
-- **Documentation:** [docs.socradar.io](https://docs.socradar.io)
-- **Support:** support@socradar.io
+- **Support:** integration@socradar.io
