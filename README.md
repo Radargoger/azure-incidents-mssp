@@ -1,4 +1,4 @@
-# SOCRadar MSSP Alarms for Microsoft Sentinel
+# SOCRadar Multi-tenan Alarms for Microsoft Sentinel
 
 Multi-tenant alarm integration between SOCRadar XTI Platform and Microsoft Sentinel for MSSP environments.
 
