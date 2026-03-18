@@ -1,6 +1,6 @@
 # SOCRadar Multi-Tenant Alarms for Microsoft Sentinel
 
-Multi-tenant alarm integration between SOCRadar XTI Platform and Microsoft Sentinel for MSSP environments.
+Multi-tenant alarm integration between SOCRadar XTI Platform and Microsoft Sentinel for Ecosystem/multitenant environments.
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FRadargoger%2Fazure-incidents-mssp%2Fmaster%2Fazuredeploy.json)
 
